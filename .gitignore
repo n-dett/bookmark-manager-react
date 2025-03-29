@@ -1,0 +1,24 @@
+# dependencies
+/node_modules
+
+# production build
+/build
+
+# misc
+.DS_Store
+.env
+.local
+.cache
+.history
+
+# testing
+/coverage
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# editor/IDE specific files
+.idea
+.vscode
