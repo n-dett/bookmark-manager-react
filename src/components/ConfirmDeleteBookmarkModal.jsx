@@ -1,4 +1,4 @@
-export default function ConfirmDeleteBookmark() {
+export default function ConfirmDeleteBookmarkModal() {
     return (
         <div className="modal-background hidden" id="delete-bookmark-modal-bgd">
             <div id="delete-bookmark-modal" className="modal">
