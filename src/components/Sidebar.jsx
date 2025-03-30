@@ -1,7 +1,7 @@
 export default function Sidebar() {
     return (
         <div id="sidebar">
-            <button type="button" id="sidebar-mobile-close">&#10005</button>
+            <button type="button" id="sidebar-mobile-close">✕</button>
             <h1 id="nav-heading">Bookmark Manager</h1>
             <button id="add-category-btn">Add Category +</button>
             <button id="add-subcategory-btn">Add Subcategory +</button>

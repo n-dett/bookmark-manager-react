@@ -1,8 +1,12 @@
-import Sidebar from "./Sidebar";
+import Sidebar from './Sidebar';
+import MainContent from './MainContent';
 
 export default function SidebarMain() {
     return (
-        <Sidebar />
+        <>
+            <Sidebar />
+            <MainContent />
+        </>
     )
     // Sidebar comp.
     // Main content comp.
