@@ -20,8 +20,6 @@ export default function ConfirmDeleteBookmarkModal() {
                         </span>?
                     </h3>
                 </div>
-                <div>
-                </div>
                 <button 
                     type="button" 
                     className="submit-form-btn" 
