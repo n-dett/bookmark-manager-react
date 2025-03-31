@@ -375,6 +375,7 @@ input, select {
     width: 22px;
     background-color: transparent;
     border: none;
+    padding: 0;
 }
 
 #hamburger-svg {
@@ -440,7 +441,7 @@ input, select {
 
 /* For all non-desktop */
 @media (max-width: 800px) {
-    body {
+    #root {
         padding: 15px;
     }
     #header-mobile {
